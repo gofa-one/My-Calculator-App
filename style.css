@@ -1,0 +1,40 @@
+table{
+    color: #fff;
+    text-align: center;
+    border-collapse: inherit;
+    font: normal 3em Arial, Helvetica, sans-serif;
+}
+
+tr{
+    height: 10;
+    background-color: white;
+}
+
+td{
+    width: 25dvw;
+    border: 1px solid white;
+}
+
+#inputBox{
+    background-color: lightpink;
+    text-align: right;
+    width:100%;
+    font-size: 2em;
+    color: #fff;
+    border: 0px;
+}
+
+.digitButton{
+    background-color: rgba(255, 192, 203, 0.877);
+    border-style: white;
+}
+
+.operatorButton{
+    background-color: lightpink;
+    border-style: white;
+}
+
+.ACButton{
+    background-color: lightpink;
+    border-style: white;
+}
